@@ -29,9 +29,9 @@ Projekt został zrealizowany przy użyciu języka **Python** oraz następującyc
 ├── notebooks/
 │   └── EDA_final.ipynb
 │   └── submission_pipeline.ipynb
-├── submissions/            # Wygenerowane pliki predykcji do Kaggle
-├── README.md               # Dokumentacja projektu
-└── requirements.txt        # Lista zależności
+├── submissions/
+├── README.md
+└── requirements.txt
 
 
 ## Ueuchomienie projektu
