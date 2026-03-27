@@ -25,16 +25,18 @@ Projekt został zrealizowany przy użyciu języka **Python** oraz następującyc
 
 ## 🚀 Struktura projektu
 
+```text
+.
 ├── data/
 ├── notebooks/
-│   └── EDA_final.ipynb
+│   ├── EDA_final.ipynb
 │   └── submission_pipeline.ipynb
 ├── submissions/
 ├── README.md
 └── requirements.txt
 
 
-## Ueuchomienie projektu
+## Uruchomienie projektu
 
 1. git clone [https://github.com/JeremiDec/forecasting-loan-repayment.git](https://github.com/JeremiDec/forecasting-loan-repayment.git)
 cd forecasting-loan-repayment
