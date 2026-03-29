@@ -215,3 +215,4 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 models/rf_model.pkl
+data/df_ex.csv
